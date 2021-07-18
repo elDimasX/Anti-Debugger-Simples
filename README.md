@@ -1,5 +1,5 @@
 # Anti-Debugger-Simples
-Esse projeto contém uma ténica que é simples, mas muito funcional para interromper depuradores, ela é uma das 40 técnicas usadas no Nottext Software Protection, por isso estou disponibilizando, pelo menos uma, ténica aqui.
+Esse projeto contém uma ténica que é simples, mas muito funcional para interromper depuradores, ela é uma das 40 técnicas usadas no Nottext Software Protection, por isso estou disponibilizando, pelo menos uma ténica aqui.
 
 ## Método eficaz
 Embora esse método seja simples e fácil de fazer, ele é muito eficaz, eu tentei usar o SycllaHide pra interromper essa ténica, mas nem ele mesmo conseguiu.<br/>
