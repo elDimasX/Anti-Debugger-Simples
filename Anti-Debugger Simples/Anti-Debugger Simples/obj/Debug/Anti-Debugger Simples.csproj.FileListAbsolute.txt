@@ -1,0 +1,10 @@
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\bin\Debug\Anti-Debugger Simples.exe.config
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\bin\Debug\Anti-Debugger Simples.exe
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\bin\Debug\Anti-Debugger Simples.pdb
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti-Debugger Simples.csproj.AssemblyReference.cache
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti_Debugger_Simples.Form1.resources
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti_Debugger_Simples.Properties.Resources.resources
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti-Debugger Simples.csproj.GenerateResource.cache
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti-Debugger Simples.csproj.CoreCompileInputs.cache
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti-Debugger Simples.exe
+G:\Projetos\Anti-Debugger Simples\Anti-Debugger Simples\obj\Debug\Anti-Debugger Simples.pdb
